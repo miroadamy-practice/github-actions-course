@@ -1,2 +1,3 @@
 # github-actions-course
-test
+
+The branch is `the-checkout-action`
